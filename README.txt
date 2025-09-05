@@ -88,11 +88,8 @@ fitfusion-club-website/
 ## 🌐 Deployment
 This project can be deployed easily using:  
 - [GitHub Pages](https://pages.github.com/)  
-- [Netlify](https://www.netlify.com/)  
-- [Vercel](https://vercel.com/)  
-
-Live Demo URL will be added here once deployed ✅  
-
+This project is live at:  
+👉 https://pavanguttula27.github.io/fitfusion-club/
 
 ---
 
